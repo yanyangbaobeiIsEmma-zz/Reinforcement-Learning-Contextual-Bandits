@@ -1,4 +1,6 @@
-# Reinforcement-Learning-Contextual-Bandits
+
+
+#### Reinforcement-Learning-Contextual-Bandits
 
 ### Contextual Bandits Resources:
 Agrawal & Goyal, Thompson Sampling for Contextual Bandits with Linear Payoffs, ICML 2013
@@ -18,3 +20,8 @@ https://arxiv.org/pdf/1003.0146.pdf
 
 Bubeck and Bianchi, Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit problems
 https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SurveyBCB12.pdf
+
+
+
+### Deep Reinforcement Learning:
+https://www.youtube.com/watch?v=2pWv7GOvuf0&t=2217s
