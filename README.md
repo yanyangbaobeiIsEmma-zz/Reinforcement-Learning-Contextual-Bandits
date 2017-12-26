@@ -21,6 +21,8 @@ https://arxiv.org/pdf/1003.0146.pdf
 Bubeck and Bianchi, Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit problems
 https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SurveyBCB12.pdf
 
+Introduction to Multi-armed bandits
+http://slivkins.com/work/MAB-book.pdf
 
 
 ### Deep Reinforcement Learning:
