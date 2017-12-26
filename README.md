@@ -1,4 +1,4 @@
-
+ 
 
 #### Reinforcement-Learning-Contextual-Bandits
 
@@ -22,7 +22,12 @@ Bubeck and Bianchi, Regret Analysis of Stochastic and Nonstochastic Multi-armed 
 https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SurveyBCB12.pdf
 
 Introduction to Multi-armed bandits
+
 http://slivkins.com/work/MAB-book.pdf
+
+A Tutorial of Thompson Sampling 
+
+https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf
 
 
 ### Deep Reinforcement Learning:
