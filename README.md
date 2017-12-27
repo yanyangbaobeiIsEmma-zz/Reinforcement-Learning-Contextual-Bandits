@@ -22,11 +22,9 @@ Bubeck and Bianchi, Regret Analysis of Stochastic and Nonstochastic Multi-armed 
 https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/SurveyBCB12.pdf
 
 Introduction to Multi-armed bandits
-
 http://slivkins.com/work/MAB-book.pdf
 
 A Tutorial of Thompson Sampling 
-
 https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf
 
 
@@ -36,9 +34,7 @@ https://www.youtube.com/watch?v=2pWv7GOvuf0&t=2217s
 
 ### Complementary Materials：
 UCB Algorithm:
-
 http://banditalgs.com/2016/09/18/the-upper-confidence-bound-algorithm/
 
 Sub-Gaussian:
-
 https://ocw.mit.edu/courses/mathematics/18-s997-high-dimensional-statistics-spring-2015/lecture-notes/MIT18_S997S15_Chapter1.pdf
