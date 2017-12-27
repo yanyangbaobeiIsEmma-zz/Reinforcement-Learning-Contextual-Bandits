@@ -34,6 +34,6 @@ https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf
 https://www.youtube.com/watch?v=2pWv7GOvuf0&t=2217s
 
 
-### Complimentary Materials：
+### Complementary Materials：
 Sub-Gaussian:
 https://ocw.mit.edu/courses/mathematics/18-s997-high-dimensional-statistics-spring-2015/lecture-notes/MIT18_S997S15_Chapter1.pdf
