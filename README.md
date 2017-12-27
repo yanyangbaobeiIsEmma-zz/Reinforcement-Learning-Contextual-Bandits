@@ -35,5 +35,10 @@ https://www.youtube.com/watch?v=2pWv7GOvuf0&t=2217s
 
 
 ### Complementary Materials：
+UCB Algorithm:
+
+http://banditalgs.com/2016/09/18/the-upper-confidence-bound-algorithm/
+
 Sub-Gaussian:
+
 https://ocw.mit.edu/courses/mathematics/18-s997-high-dimensional-statistics-spring-2015/lecture-notes/MIT18_S997S15_Chapter1.pdf
