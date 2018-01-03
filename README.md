@@ -1,4 +1,5 @@
- 
+
+
 
 #### Reinforcement-Learning-Contextual-Bandits
 
@@ -38,3 +39,6 @@ http://banditalgs.com/2016/09/18/the-upper-confidence-bound-algorithm/
 
 Sub-Gaussian:
 https://ocw.mit.edu/courses/mathematics/18-s997-high-dimensional-statistics-spring-2015/lecture-notes/MIT18_S997S15_Chapter1.pdf
+
+The first paper proving regret bound of MAB:
+http://www.rci.rutgers.edu/~mnk/papers/Lai_robbins85.pdf
