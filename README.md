@@ -42,3 +42,6 @@ https://ocw.mit.edu/courses/mathematics/18-s997-high-dimensional-statistics-spri
 
 The first paper proving regret bound of MAB:
 http://www.rci.rutgers.edu/~mnk/papers/Lai_robbins85.pdf
+
+Reinforcement Learning: An Introduction (Richard Sutton)
+https://pdfs.semanticscholar.org/aa32/c33e7c832e76040edc85e8922423b1a1db77.pdf
