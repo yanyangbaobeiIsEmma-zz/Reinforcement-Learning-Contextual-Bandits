@@ -1,9 +1,9 @@
 
-
-
-#### Reinforcement-Learning-Contextual-Bandits
-
+# Reinforcement Learning & Contextual MAB
 ### Contextual Bandits Resources:
+ICML 2017 Tutorial: provided by Emma Brunskill :blush:
+http://hunch.net/~rwil/
+
 Agrawal & Goyal, Thompson Sampling for Contextual Bandits with Linear Payoffs, ICML 2013
 https://arxiv.org/abs/1209.3352
 
