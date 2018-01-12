@@ -1,6 +1,6 @@
 
 # Reinforcement Learning & Contextual MAB
-### Contextual Bandits Resources:
+## Contextual Bandits Resources:
 ICML 2017 Tutorial: provided by Emma Brunskill :blush:
 http://hunch.net/~rwil/
 
@@ -29,11 +29,11 @@ A Tutorial of Thompson Sampling
 https://web.stanford.edu/~bvr/pubs/TS_Tutorial.pdf
 
 
-### Deep Reinforcement Learning:
+## Deep Reinforcement Learning:
 https://www.youtube.com/watch?v=2pWv7GOvuf0&t=2217s
 
 
-### Complementary Materials：
+## Complementary Materials：
 UCB Algorithm:
 http://banditalgs.com/2016/09/18/the-upper-confidence-bound-algorithm/
 
