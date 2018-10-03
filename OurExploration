@@ -1,0 +1,75 @@
+Exploration in Industry
+
+Beta Randomization and Effective N
+* Beta Distribution:
+ alpha = p * N
+ beta = (1 - p) * N
+
+* Expected value p
+
+* Vairance determined by N
+ * MS:  query_X_Ad EC
+ * Gbin sets Effective N to 100
+   * 60% impressions are Gbin
+   
+* How to estimate N?
+ * Given impression, how confident are we with our prediction
+ 
+* Beta distribution has closed form solution for N
+ * using MLE： N = p(1-p)/sigma^2 - 1
+ 
+* If we have p, sigma^2, then we can compute N
+
+
+Estimate EffectiveN
+* Bagging, or Query-By-Committee (active learning)
+* Bagging procedure
+	* for i in range (k):   --- k = 20
+		data_k = sample_with_replacement(data)
+		model_k = train(data_k)
+		predictions_k = model_k.predict(holdout_data)
+* p, sigma^2 estimated from average, variance of prediction_{0,...,k}
+ * compute N
+* Train a model to predict N|X
+ * uses same feature as pClick Nnet, except woodblocks
+ * uses MLI only 
+ 
+Training Model V0
+* V0:Linear Regression
+ * MLI only
+ * Shift to minimize negatives
+	* online clipped effectiveN > 1.1
+* Flighted
+
+Training Model V1
+* Train transformed model
+  * lnN = f(x)
+* Residual Plots
+ * Errors appear log-distributed
+* Prediction curves appear closer
+ * EC Scale is off
+* Better correlation with effective
+* Flight shortly
+
+Impact of Randomization
+* All plots are MLI going forward
+* Considerably less randomization than other methods
+ * Generally forms tight ball around original pClick
+ * It does increase pClick a little bit
+
+
+ 
+
+
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+
+----------
+woodblock uses drop-out to explore 
